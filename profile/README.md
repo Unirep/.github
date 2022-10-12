@@ -1,4 +1,5 @@
 ![header](https://github.com/Unirep/.github/blob/main/assets/repository-unirep.png)
 - ✍🏻 [Learn more about Unirep protocol](https://unirep.gitbook.io/unirep/introduction)
+- 🔬 [Read about the next version](https://unirep.gitbook.io/v1.1/)
 - 👀 [Demo app built upon Unirep protocol](https://unirep.social/)
 - 👉🏻 [**Join our discord channel**](https://discord.gg/VzMMDJmYc5)
